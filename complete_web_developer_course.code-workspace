@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:/complete_web_developer_course"
+		},
+		{
+			"path": "../VS Code App"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VS Code App"
+	}
+}
